@@ -4,10 +4,10 @@ Program ini dibuat dalam rangka memenuhi tugas kecil dari mata kuliah IF2211 Str
 
 ## Cara Menggunakan:
 File executable tidak dapat dibuat sehingga program perlu dijalankan menggunakan Command Prompt untuk memastikan berhasil bekerja.<br>
-1. Buka folder src, pastikan terdapat cryp_solver.py
+1. Buka folder src, pastikan terdapat cryptarithm_solver.py
 2. Buka folder test, pastikan terdapat file uji dengan format soalX.txt (X adalah angka 1 s.d. 10)
 3. Buka Command Prompt (pada Windows), lalu ganti direktori ke dalam folder src
-4. Eksekusi perintah "py cryp_solver.py"
+4. Eksekusi perintah "py cryptarithm_solver.py"
 5. Program akan berjalan secara otomatis hingga seluruh file dalam folder test dibaca
 
 ## Tentang Pembuat
